@@ -21,4 +21,4 @@ Partie 2 :
 Partie 3 : Sécurité avec Spring security ( InMemomy Authentication, JDBC Authentication, 	UserDetails Service )
 
 
-Veuillez trouver ci-dessous le lien vers le rapport PDF détaillant ma réalisation du TP3 : https://github.com/halimadaoudi/TP3-SD-S2/blob/main/TP3-DAOUDI-HALIMA.pdf
+Veuillez trouver ci-dessous le lien vers le rapport PDF détaillant ma réalisation du TP3 : https://github.com/halimadaoudi/TP3-S2-SD/blob/main/TP3%20DAOUDI%20HALIMA%20SD.pdf
